@@ -16,7 +16,6 @@ const EditTodo = ({ todo }) => {
         }
       );
 
-      // this is breaking the modal component - WHY????
       window.location = "/";
 
       console.log(response);
